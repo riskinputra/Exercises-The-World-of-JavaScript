@@ -1,0 +1,22 @@
+// Tugas 1
+
+SIMPAN "angka pertama"
+SIMPAN "angka kedua"
+HITUNG "angka pertama" dikali "angka kedua"
+TULISKAN hasil hitungan
+
+// Tugas 2
+SIMPAN "kata pertama"
+IF "kata pertama" sama dengan Saya Belajar JavaScript!
+ENDIF
+TULISKAN Pasti Bisa!
+
+// Tugas 3
+SIMPAN "angka pertama"
+SIMPAN "angka kedua" sama dengan 1
+ULANGI "angka kedua" habis dibagi 3
+	TAMPILKAN "angka kedua"
+	SIMPAN "angka kedua" diambah 1
+SAMPAI "angka kedua" sama dengan "angka pertama"
+	
+
